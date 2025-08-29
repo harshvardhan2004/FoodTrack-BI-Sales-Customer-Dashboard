@@ -1,4 +1,4 @@
-# 🍕 BizInsights Dashboard – Sales & Customer Analytics
+# 🍕 FoodTrack BI Dashboard – Sales & Customer Analytics
 
 ## 📌 Overview  
 This project demonstrates how raw transactional data can be transformed into **business insights** using **SQL** and **Power BI**.  
