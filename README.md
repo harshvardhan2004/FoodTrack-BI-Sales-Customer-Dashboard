@@ -48,7 +48,8 @@ The result is an **interactive dashboard** that helps business stakeholders trac
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert your Power BI screenshot here after you build it!)*  
+<img width="1426" height="759" alt="image" src="https://github.com/user-attachments/assets/b997614b-6747-4fc1-9433-5bf9bdef2a98" />
+
 
 ---
 
@@ -74,4 +75,3 @@ The result is an **interactive dashboard** that helps business stakeholders trac
 
 ---
 
-🔥 This project isn’t just about pizza sales—it’s about proving that **structured thinking + SQL + dashboards = real business impact**.  
